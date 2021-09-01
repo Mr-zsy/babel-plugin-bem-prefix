@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "babel src/template.js --out-file res.js"
+    "dev": "babel src/template.js --out-file test-res.js"
   },
   "author": "",
   "license": "ISC",
