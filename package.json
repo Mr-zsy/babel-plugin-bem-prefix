@@ -1,0 +1,12 @@
+{
+  "name": "babel-plugin-bem-prefix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

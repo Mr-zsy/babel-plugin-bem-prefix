@@ -1,0 +1,8 @@
+{
+    "presets": ["es2015", "react"],
+    "plugins": [["../lib/index.js", {
+      "prefixFlag": "&__",
+      "prefix": "prefix-",
+      "commentPrefixFlag": "commentPrefix"
+    }]]
+  }
