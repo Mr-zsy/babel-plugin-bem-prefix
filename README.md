@@ -2,9 +2,7 @@
 
 ## Description
 
-为`React`组件`className`加`prefix`
-
-,默认替换`&__`为`prefix`的值，`prefix`值默认为当前`React`组件的组件名，支持`prefixFlag`配置替换占位符，支持函数组件和类组件
+配合BEM规范使用，为`React`组件`className`加`prefix`,默认替换`&__`为`prefix`的值，`prefix`值默认为当前`React`组件的组件名，支持`prefixFlag`配置替换占位符，支持函数组件和类组件
 
 ## 下载
 ```
