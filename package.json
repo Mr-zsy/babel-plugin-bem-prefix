@@ -2,10 +2,13 @@
   "name": "babel-plugin-bem-prefix",
   "version": "0.0.1",
   "description": "",
+  "homepage": "https://github.com/Mr-zsy/babel-plugin-bem-prefix",
   "main": "lib/index.js",
+  "keywords": ["BEM", "prefix"],
+  "email": "921358361@qq.com",
   "scripts": {
   },
-  "author": "",
+  "author": "mr-zsy",
   "license": "ISC",
   "dependencies": {}
 }
