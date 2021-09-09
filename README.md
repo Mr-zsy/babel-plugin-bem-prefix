@@ -56,3 +56,4 @@ export default App;
 
 ## TODO
 - 补充单测
+- 增加changelog，自动根据commit msg生成同时关联tag
